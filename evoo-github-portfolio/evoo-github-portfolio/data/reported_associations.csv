@@ -1,0 +1,11 @@
+measure,value,notes
+Pearson EVOO price vs exports,-0.7,Contemporaneous association
+Spearman EVOO price vs exports,-0.64,Contemporaneous association
+Pearson EVOO price vs final stocks,-0.56,Contemporaneous association
+Spearman EVOO price vs final stocks,-0.54,Contemporaneous association
+Pearson EVOO price vs domestic commercialisation,-0.52,Contemporaneous association
+Spearman EVOO price vs domestic commercialisation,-0.52,Contemporaneous association
+Pearson EVOO vs sunflower price lag 0,0.115,Reported lag analysis
+Pearson EVOO vs sunflower price lag 12,0.654,Reported lag analysis
+Spearman EVOO vs sunflower price lag 0,0.387,Reported lag analysis
+Spearman EVOO vs sunflower price lag 12,0.825,Reported lag analysis

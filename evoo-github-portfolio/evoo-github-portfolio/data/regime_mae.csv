@@ -1,0 +1,8 @@
+model,Low_MAE,Medium_MAE,High_MAE
+Persistence,5.36,15.99,44.0
+Ridge A,6.44,24.68,41.17
+Ridge B,12.6,26.09,40.57
+Ridge C,14.03,24.78,51.79
+XGBoost A,9.94,27.11,91.89
+XGBoost B,10.1,27.67,93.49
+XGBoost C,9.44,19.83,98.13

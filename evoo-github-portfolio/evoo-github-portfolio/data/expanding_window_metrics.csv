@@ -1,0 +1,8 @@
+model,MAE_EUR_per_100kg,RMSE_EUR_per_100kg,MAPE_percent
+Persistence,26.709,38.977,4.8
+Ridge A,29.394,39.182,5.496
+Ridge B,30.566,40.175,5.9
+Ridge C,35.05,46.219,6.492
+XGBoost C,52.375,77.555,8.922
+XGBoost A,52.89,75.507,9.279
+XGBoost B,53.851,76.583,9.452

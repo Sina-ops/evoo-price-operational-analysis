@@ -1,0 +1,20 @@
+feature,mean_absolute_SHAP
+Current EVOO price,105.58
+EVOO lag 1,27.935
+Sunflower lag 12,16.604
+Current sunflower price,12.685
+EVOO lag 3,9.049
+EVOO lag 12,2.716
+EVOO 1-month change,1.835
+Final stock,1.402
+Sunflower lag 6,1.222
+Final stock lag 1,0.655
+Domestic market,0.394
+Imports,0.32
+Exports lag 1,0.303
+Sunflower lag 3,0.281
+Domestic market lag 1,0.059
+Month sine,0.056
+Month cosine,0.0
+Production,0.0
+Exports,0.0
